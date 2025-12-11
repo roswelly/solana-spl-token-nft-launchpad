@@ -64,5 +64,5 @@ The smart contracts in this repository cover the following functionalities:
 
 For more information feel free to contact me
 
-- Twitter  [DeFiMaxi](https://x.com/defai_maxi) 
-- Telegram [Rhettjel](https://t.me/rhettjel)
+- Twitter  [roswellyecho](https://x.com/roswellyecho) 
+- Telegram [roswellecho](https://t.me/roswellecho)
